@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @psaar
-- 👀 I’m interested in sports, games, music, tech, nature, space.. you name it, I'm interested!
-- 🌱 I’m currently learning python, pandas, matplotlib for data analytics
+- 🌱 I’m up for anything!
 - 💞️ I’m looking to collaborate on different projects
 
 <!---
